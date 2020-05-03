@@ -1,0 +1,2 @@
+# algoritmo
+procedimiento de algoritmo
